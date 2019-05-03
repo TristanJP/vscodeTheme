@@ -1,1 +1,1 @@
-My cusotm vsCode theme
+My custom vsCode theme
